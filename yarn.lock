@@ -708,7 +708,7 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@dschau/gatsby-theme-blog@^0.2.0":
+"@dschau/gatsby-theme-blog@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@dschau/gatsby-theme-blog/-/gatsby-theme-blog-0.2.0.tgz#ac735fee2b1afc3fec61e0a539f29d61e5c81ccd"
   integrity sha512-naLX1S6JO/iCw/0nGA/yqjhv2nNS0YRyrL9uUi3p+CJxLLMFN/okgXip0oRr0SP5r9G8Xde22JAx/Q0+gGwewQ==
